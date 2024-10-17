@@ -15,7 +15,7 @@ The `ExcelDataTransformer` is a Python script that transforms Excel data into di
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/ExcelDataTransformer.git
+    git clone https://github.com/crismag/ExcelDataTransformer.git
     cd ExcelDataTransformer
     ```
 
