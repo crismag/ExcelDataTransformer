@@ -1,6 +1,3 @@
-# Creating a GitHub README file in .md format for the script, including sample uses
-
-readme_content = """
 # ExcelDataTransformer
 
 The `ExcelDataTransformer` is a Python script that transforms Excel data into different formats (JSON, YAML, CSV), allowing for filtering and customizable transformations based on flexible configurations.
